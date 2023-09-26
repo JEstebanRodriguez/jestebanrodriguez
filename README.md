@@ -104,4 +104,6 @@
 ###
 
 <h3 align="center">Daily.dev:</h3>
-<a href="https://app.daily.dev/xjergx" align="center"><img src="https://api.daily.dev/devcards/8b247185e2724114831ccb244de1433a.png?r=gvq" width="200" alt="Juan Rodriguez's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/xjergx"><img src="https://api.daily.dev/devcards/8b247185e2724114831ccb244de1433a.png?r=gvq" width="220" alt="Juan Rodriguez's Dev Card"/></a>
+</div>
