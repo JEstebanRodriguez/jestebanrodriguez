@@ -95,14 +95,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jestebanrodriguez/jestebanrodriguez/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jestebanrodriguez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanrodriguez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -111,5 +103,5 @@
 
 ###
 
-<h3 align="left">Daily.dev:</h3>
-<a href="https://app.daily.dev/xjergx"><img src="https://api.daily.dev/devcards/8b247185e2724114831ccb244de1433a.png?r=gvq" width="150" alt="Juan Rodriguez's Dev Card"/></a>
+<h3 align="center">Daily.dev:</h3>
+<a href="https://app.daily.dev/xjergx" align="center"><img src="https://api.daily.dev/devcards/8b247185e2724114831ccb244de1433a.png?r=gvq" width="200" alt="Juan Rodriguez's Dev Card"/></a>
