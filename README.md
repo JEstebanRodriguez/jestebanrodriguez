@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻 About Me</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center">🔥 My Stats :</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jestebanrodriguez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
